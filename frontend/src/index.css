@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@layer utilities {
+  .animation-delay-2s {
+    animation-delay: 2s;
+  }
+  .animation-delay-4s {
+    animation-delay: 4s;
+  }
+}
+* {
+  scrollbar-width: none; /* Firefox */
+  -ms-overflow-style: none; /* Internet Explorer/Edge */
+  overflow: -moz-scrollbars-none; /* Firefox */
+}

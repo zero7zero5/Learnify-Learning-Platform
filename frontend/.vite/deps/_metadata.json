@@ -1,0 +1,160 @@
+{
+  "hash": "46dbc662",
+  "configHash": "fd799ddf",
+  "lockfileHash": "2385b1ab",
+  "browserHash": "dec067c8",
+  "optimized": {
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "8ade26f2",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "d1dfe79b",
+      "needsInterop": true
+    },
+    "react-redux": {
+      "src": "../../node_modules/react-redux/dist/react-redux.mjs",
+      "file": "react-redux.js",
+      "fileHash": "349c796f",
+      "needsInterop": false
+    },
+    "react-router-dom": {
+      "src": "../../node_modules/react-router-dom/dist/index.js",
+      "file": "react-router-dom.js",
+      "fileHash": "857ffef1",
+      "needsInterop": false
+    },
+    "@reduxjs/toolkit": {
+      "src": "../../node_modules/@reduxjs/toolkit/dist/redux-toolkit.modern.mjs",
+      "file": "@reduxjs_toolkit.js",
+      "fileHash": "81c59bba",
+      "needsInterop": false
+    },
+    "react-icons/fa": {
+      "src": "../../node_modules/react-icons/fa/index.mjs",
+      "file": "react-icons_fa.js",
+      "fileHash": "877be6fc",
+      "needsInterop": false
+    },
+    "react-icons/io": {
+      "src": "../../node_modules/react-icons/io/index.mjs",
+      "file": "react-icons_io.js",
+      "fileHash": "4838b9d2",
+      "needsInterop": false
+    },
+    "react-icons/gi": {
+      "src": "../../node_modules/react-icons/gi/index.mjs",
+      "file": "react-icons_gi.js",
+      "fileHash": "f1db53d1",
+      "needsInterop": false
+    },
+    "@chakra-ui/accordion": {
+      "src": "../../node_modules/@chakra-ui/accordion/dist/index.mjs",
+      "file": "@chakra-ui_accordion.js",
+      "fileHash": "ebec7a6a",
+      "needsInterop": false
+    },
+    "@chakra-ui/layout": {
+      "src": "../../node_modules/@chakra-ui/layout/dist/index.mjs",
+      "file": "@chakra-ui_layout.js",
+      "fileHash": "5b117205",
+      "needsInterop": false
+    },
+    "react-icons/ci": {
+      "src": "../../node_modules/react-icons/ci/index.mjs",
+      "file": "react-icons_ci.js",
+      "fileHash": "1d724eef",
+      "needsInterop": false
+    },
+    "lucide-react": {
+      "src": "../../../node_modules/lucide-react/dist/esm/lucide-react.js",
+      "file": "lucide-react.js",
+      "fileHash": "47fd1a23",
+      "needsInterop": false
+    },
+    "@mux/mux-player-react": {
+      "src": "../../../node_modules/@mux/mux-player-react/dist/index.mjs",
+      "file": "@mux_mux-player-react.js",
+      "fileHash": "10e2c085",
+      "needsInterop": false
+    },
+    "react-player": {
+      "src": "../../node_modules/react-player/lib/index.js",
+      "file": "react-player.js",
+      "fileHash": "82b117ac",
+      "needsInterop": true
+    }
+  },
+  "chunks": {
+    "Vidyard-DTVM4HOC": {
+      "file": "Vidyard-DTVM4HOC.js"
+    },
+    "Kaltura-BGDX2NC5": {
+      "file": "Kaltura-BGDX2NC5.js"
+    },
+    "FilePlayer-ZEO4HFCW": {
+      "file": "FilePlayer-ZEO4HFCW.js"
+    },
+    "Preview-AFGOL5SK": {
+      "file": "Preview-AFGOL5SK.js"
+    },
+    "Vimeo-XKEMLSZI": {
+      "file": "Vimeo-XKEMLSZI.js"
+    },
+    "Mux-SFBBSDGF": {
+      "file": "Mux-SFBBSDGF.js"
+    },
+    "Facebook-RDOOW2YE": {
+      "file": "Facebook-RDOOW2YE.js"
+    },
+    "Streamable-XFGSC76T": {
+      "file": "Streamable-XFGSC76T.js"
+    },
+    "Wistia-HDOQCO2G": {
+      "file": "Wistia-HDOQCO2G.js"
+    },
+    "Twitch-LVJ52VQA": {
+      "file": "Twitch-LVJ52VQA.js"
+    },
+    "DailyMotion-N2X4F4N5": {
+      "file": "DailyMotion-N2X4F4N5.js"
+    },
+    "Mixcloud-S7B52K64": {
+      "file": "Mixcloud-S7B52K64.js"
+    },
+    "chunk-U23NNHNZ": {
+      "file": "chunk-U23NNHNZ.js"
+    },
+    "chunk-NRVID7E5": {
+      "file": "chunk-NRVID7E5.js"
+    },
+    "chunk-6UHNYVXZ": {
+      "file": "chunk-6UHNYVXZ.js"
+    },
+    "YouTube-JT5VRHTQ": {
+      "file": "YouTube-JT5VRHTQ.js"
+    },
+    "SoundCloud-A2NWO2IV": {
+      "file": "SoundCloud-A2NWO2IV.js"
+    },
+    "chunk-VZS5PLGQ": {
+      "file": "chunk-VZS5PLGQ.js"
+    },
+    "chunk-4ZSTBHIF": {
+      "file": "chunk-4ZSTBHIF.js"
+    },
+    "chunk-NJTWTO4I": {
+      "file": "chunk-NJTWTO4I.js"
+    },
+    "chunk-HAZNF34R": {
+      "file": "chunk-HAZNF34R.js"
+    },
+    "chunk-WXXH56N5": {
+      "file": "chunk-WXXH56N5.js"
+    }
+  }
+}
